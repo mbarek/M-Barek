@@ -19,19 +19,7 @@
             }
             base.Dispose(disposing);
         }
-
-        #region Codice generato da Progettazione Windows Form
-
-        /// <summary>
-        /// Metodo necessario per il supporto della finestra di progettazione. Non modificare
-        /// il contenuto del metodo con l'editor di codice.
-        /// </summary>
-        private void InitializeComponent()
-        {
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Form1";
-        }
+        come sono bello!!
 
         #endregion
     }

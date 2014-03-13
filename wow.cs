@@ -19,7 +19,7 @@
             }
             base.Dispose(disposing);
         }
-        come sono bello!!
+        
 
         #endregion
     }
